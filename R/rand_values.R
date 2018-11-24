@@ -1,4 +1,4 @@
-#' A Cat Function
+#' A test Function
 #'
 #' This function allows you to get n random numbers
 #' @param n Number of random numbers
