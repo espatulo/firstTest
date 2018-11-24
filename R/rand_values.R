@@ -11,6 +11,3 @@
 rand_values<-function(n=50){
   runif(n)
 }
-
-
-#hoffla
